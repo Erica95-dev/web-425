@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.4
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: app.po.ts
+*/ 
+
 import { browser, by, element } from 'protractor';
 
 export class AppPage {
