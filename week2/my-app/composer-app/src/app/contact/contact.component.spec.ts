@@ -1,3 +1,10 @@
+/* 
+Title: assignment 2.4
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: contact
+*/ 
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ContactComponent } from './contact.component';
