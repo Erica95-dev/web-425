@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.3
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: image.component
+*/ 
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MyImageComponent } from './my-image.component';
