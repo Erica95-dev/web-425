@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.2
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: 
+*/ 
+
 import { browser, by, element } from 'protractor';
 
 export class AppPage {
