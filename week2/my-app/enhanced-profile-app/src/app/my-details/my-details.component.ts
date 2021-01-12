@@ -1,3 +1,10 @@
+/* 
+Title: assignment 2.3
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: 
+*/ 
 import { Component, OnInit } from '@angular/core';
 
 export default class Person {
@@ -25,7 +32,7 @@ export class MyDetailsComponent implements OnInit {
   myProfile: Person;
 
   constructor() {
-    this.myProfile = new Person("Richard Krasso", "Pizza", "Red");
+    this.myProfile = new Person("Erica Perry", "Chicken ", "Blue");
   }
 
   ngOnInit(): void {
