@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.3
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: app.module.ts
+*/ 
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
