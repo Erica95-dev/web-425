@@ -3,7 +3,7 @@ Title: assignment 2.2
 Author: Erica Perry
 Date:1/9/2021
 Modified: Erica Perry
-Description: 
+Description: karma.conf.js
 */ 
 
 // Karma configuration file, see link for more information
