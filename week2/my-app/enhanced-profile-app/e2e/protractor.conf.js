@@ -1,9 +1,9 @@
 /* 
-Title: assignment 2.2
+Title: assignment 2.3
 Author: Erica Perry
 Date:1/9/2021
 Modified: Erica Perry
-Description: 
+Description: protractor.conf.js
 */ 
 
 // @ts-check
