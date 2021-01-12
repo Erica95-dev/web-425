@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.3
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: my-details.component 
+*/ 
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MyDetailsComponent } from './my-details.component';
