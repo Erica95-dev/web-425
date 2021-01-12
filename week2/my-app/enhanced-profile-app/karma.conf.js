@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.2
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: 
+*/ 
+
 // Karma configuration file, see link for more information
 // https://karma-runner.github.io/1.0/config/configuration-file.html
 
