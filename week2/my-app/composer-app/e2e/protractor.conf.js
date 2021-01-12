@@ -1,3 +1,11 @@
+/* 
+Title: assignment 2.2
+Author: Erica Perry
+Date:1/9/2021
+Modified: Erica Perry
+Description: 
+*/ 
+
 // @ts-check
 // Protractor configuration file, see link for more information
 // https://github.com/angular/protractor/blob/master/lib/config.ts
