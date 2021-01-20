@@ -1,3 +1,11 @@
+/*
+Title: assignment 3.2
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: envir .ts
+*/
+
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
