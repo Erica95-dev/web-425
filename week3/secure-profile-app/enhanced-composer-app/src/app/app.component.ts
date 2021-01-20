@@ -1,3 +1,11 @@
+/* 
+Title: assignment 3.2
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: app ts
+*/
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
