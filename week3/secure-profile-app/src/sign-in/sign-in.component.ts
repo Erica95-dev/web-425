@@ -1,7 +1,7 @@
 /**
  * Title: sign-in.component.ts
  * Author: Erica Perry
- * Date: 218 April 2021
+ * Date: 18 Jan 2021
  * Description: Sign-in component (sign-in page)
  */
 
