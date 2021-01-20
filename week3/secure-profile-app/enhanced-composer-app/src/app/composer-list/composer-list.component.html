@@ -1,3 +1,11 @@
+<!-- 
+Title: assignment 3.4
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: image.html
+-->
+
 <div class="row">
   <div class="col-sm-12">
     <table class="table table-bordered">
@@ -10,6 +18,7 @@
       </thead>
       <tbody *ngFor="let composer of composers">
         <tr>
+          <!-- linking the composers and calling them -->
           <td scope="row"> <a routerLink="/composer-details/{{composer.composerId}}">{{ composer.composerId }}</a></td>
           <td>{{ composer.fullName }}</td>
           <td>{{ composer.genre }}</td>
