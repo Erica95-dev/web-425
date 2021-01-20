@@ -1,3 +1,11 @@
+/*
+Title: assignment 3.2
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: ts
+*/
+
 /**
  * This file includes polyfills needed by Angular and is loaded before the app.
  * You can add your own extra polyfills to this file.
