@@ -1,7 +1,7 @@
 /**
  * Title: sign-in.component.ts
- * Author: Professor Krasso
- * Date: 22 April 2020
+ * Author: Erica Perry
+ * Date: 18 April 2021
  * Description: Sign-in component (sign-in page)
  */
 
