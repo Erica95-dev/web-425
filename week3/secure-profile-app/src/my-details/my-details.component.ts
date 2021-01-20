@@ -1,9 +1,9 @@
 /*
-Title: assignment 3.2
+Title: assignment 3.4
 Author: Erica Perry
 Date:1/8/2021
 Modified: Erica Perry
-Description: about.component
+Description: ts
 */
 import { Component, OnInit } from '@angular/core';
 
