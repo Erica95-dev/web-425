@@ -1,3 +1,10 @@
+/*
+Title: assignment 3.4
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: 
+/*
 
 /**
  * This file includes polyfills needed by Angular and is loaded before the app.
