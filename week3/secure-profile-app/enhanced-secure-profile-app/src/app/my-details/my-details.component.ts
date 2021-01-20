@@ -1,3 +1,11 @@
+/*
+Title: assignment 3.3
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: ts
+*/
+
 import { Component, OnInit } from '@angular/core';
 
 export default class Person {
