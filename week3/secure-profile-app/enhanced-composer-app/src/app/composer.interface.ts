@@ -1,6 +1,6 @@
 /**
  * Title: composer.interface.ts
- * Author: Professor Krasso
+ * Author: Erica Perry
  * Date: 21 April 2020
  * Description: Interface for the Composer object
  */
