@@ -1,3 +1,9 @@
+/**
+ * Title: main.ts
+ * Author: Erica Perry
+ * Date: 21 Jan 2021
+ * Description: main.ts
+ */
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
