@@ -1,3 +1,10 @@
+/*
+Title:book-list
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: 
+*/
 import { Component, OnInit } from '@angular/core';
 
 @Component({
