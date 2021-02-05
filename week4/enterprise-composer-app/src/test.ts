@@ -1,3 +1,10 @@
+/*
+Title: assignment 4.2
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description:test.ts
+*/
 // This file is required by karma.conf.js and loads recursively all the .spec and framework files
 
 import 'zone.js/dist/zone-testing';
