@@ -1,3 +1,10 @@
+/*
+Title: conatct.component
+Author: Erica Perry
+Date:1/18/2021
+Modified: Erica Perry
+Description: 
+*/
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ContactComponent } from './contact.component';
