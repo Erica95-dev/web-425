@@ -1,7 +1,7 @@
 /**
  * Title: app.module.ts
- * Author: Professor Krasso
- * Date: 21 April 2020
+ * Author: Erica Perrt
+ * Date: 18 Jan 2021
  * Description: App module
  */
 
