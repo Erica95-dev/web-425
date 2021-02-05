@@ -1,3 +1,10 @@
+/**
+ * Title: app.component.ts
+ * Author: Erica Perry
+ * Date: 21 Jan 2021
+ * Description: App component
+ */
+
 import { TestBed } from '@angular/core/testing';
 
 import { ComposerService } from './composer.service';
