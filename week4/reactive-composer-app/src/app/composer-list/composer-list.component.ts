@@ -1,7 +1,7 @@
 /**
  * Title: composer-list.component.ts
- * Author: Professor Krasso
- * Date: 21 April 2020
+ * Author: Erica Perry
+ * Date:18 Jan 2021
  * Description: Composer list component; displays a list of composers
  */
 
