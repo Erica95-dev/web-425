@@ -1,3 +1,11 @@
+/*
+Title:app.component.spec
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: 
+*/
+
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
