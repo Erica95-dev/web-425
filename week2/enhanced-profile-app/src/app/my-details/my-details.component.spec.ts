@@ -1,3 +1,10 @@
+/*
+Title: my-details.component.ts
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: 
+*/
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MyDetailsComponent } from './my-details.component';
