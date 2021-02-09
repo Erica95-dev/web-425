@@ -13,5 +13,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  assignment = 'Exercise 4.3 - Handling Events with Obsernables';
+  assignment = 'Exercise 4.4 - Async Pipe';
 }
