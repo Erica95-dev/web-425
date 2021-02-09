@@ -1,7 +1,7 @@
 /**
  * Title: composer-list.component.ts
  * Author: Erica Perry
- * Date: 20 April 2021
+ * Date: 18 Jan 2021
  * Description: Composer list component; displays a list of composers
  */
 

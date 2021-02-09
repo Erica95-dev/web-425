@@ -1,3 +1,10 @@
+/*
+Title: app.e2e-spec.ts
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: 
+*/
 import { AppPage } from './app.po';
 import { browser, logging } from 'protractor';
 

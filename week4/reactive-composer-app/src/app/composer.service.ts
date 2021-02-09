@@ -1,7 +1,7 @@
 /**
  * Title: composer.service.ts
- * Author: Professor Krasso
- * Date: 21 April 2020
+ * Author: Erica Perry
+ * Date:18 Jan 2020
  * Description: Service class for Composer objects
  */
 

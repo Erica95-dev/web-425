@@ -1,6 +1,6 @@
 /**
  * Title: app.module.ts
- * Author: Professor Krasso
+ * Author: Erica Perry
  * Date: 21 April 2020
  * Description: App module
  */

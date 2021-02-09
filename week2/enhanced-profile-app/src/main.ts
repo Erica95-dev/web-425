@@ -1,3 +1,11 @@
+/*
+Title: main.ys
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: main.ts
+*/
+
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 

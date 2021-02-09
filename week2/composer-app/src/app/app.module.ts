@@ -1,3 +1,10 @@
+/*
+Title: app.module.ts
+Author: Erica Perry
+Date:1/4/2021
+Modified: Erica Perry
+Description: 
+*/
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 

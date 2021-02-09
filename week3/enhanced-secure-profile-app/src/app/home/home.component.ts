@@ -1,7 +1,7 @@
 /**
  * Title: home.component.ts
- * Author: Professor Krasso
- * Date: 22 April 2020
+ * Author: Erica Perry
+ * Date:1/4/2021
  * Description: Home component (Home page)
  */
 

@@ -1,3 +1,10 @@
+/**
+ * Title: app.component.ts
+ * Author: Erica Perry
+ * Date: 21 Jan 2021
+ * Description: App component.spec
+ */
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { AboutComponent } from './about.component';

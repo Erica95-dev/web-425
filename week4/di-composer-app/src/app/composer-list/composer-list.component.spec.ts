@@ -1,3 +1,10 @@
+/**
+ * Title: composer list
+ * Author: Erica Perry
+ * Date: 21 Jan 2021
+ * Description: list
+ */
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ComposerListComponent } from './composer-list.component';

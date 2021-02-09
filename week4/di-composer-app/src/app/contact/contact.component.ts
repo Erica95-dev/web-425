@@ -1,3 +1,9 @@
+/**
+ * Title: contact
+ * Author: Erica Perry
+ * Date: 21 Jan 2021
+ * Description:contact
+ */
 import { Component, OnInit } from '@angular/core';
 
 @Component({

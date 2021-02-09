@@ -1,7 +1,7 @@
 /**
  * Title: sign-in.guard.ts
- * Author: Professor Krasso
- * Date: 22 April 2020
+ * Author: Erica Perry
+ * Date: Jan 18  2021
  * Description: Sign in guard
  */
 
