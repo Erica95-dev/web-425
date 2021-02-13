@@ -1,3 +1,9 @@
+/*
+ * Title: not-found.component.spec.ts
+ * Author: Erica Perry
+ * Date:Feb 9 2021
+ * Description: not-found.compontent */
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { NotFoundComponent } from './not-found.component';
