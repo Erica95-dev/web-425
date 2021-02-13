@@ -1,7 +1,7 @@
 /**
  * Title: book-list.component.ts
  * Author: Erica Perry
- * Date: 30 Jan 2021
+ * Date: Feb 3 2021
  * Description: Book list component (book list page)
  */
 
