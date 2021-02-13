@@ -1,7 +1,7 @@
 /**
  * Title: book-details-dialog.component
  * Author: Erica Perry
- * Date: Jan 30 2021
+ * Date: Feb 3 2021
  * Description: Book details dialog (dialog box for displaying the details of a book)
  */
 
