@@ -4,11 +4,15 @@
  * Date: Feb 6 2021
  * Description: base-layout.html-->
 
+
+<!-- creating a toolbar with my logo image to the right-->
  <mat-toolbar color="primary">
   <mat-toolbar-row>
     <div class="logo"></div>
       <img src="./assets/book logo.png" height="80" />
     <div style="width: 80%">
+      
+      <!-- creating a link button for the home page --> 
       <div fxLayout="row wrap" fxLayoutAlign="end start">
         <button mat-button routerLink="/">Home</button>
       </div>
@@ -20,6 +24,7 @@
 
 <div fxLayout="row wrap">
   
+  <!-- calling in my assignment name -->
   <div fxFlex>
     <mat-card class="main-container mat-elevation-z0">
       <mat-card-title>{{ assignment }}</mat-card-title>
