@@ -1,3 +1,9 @@
+/*
+ * Title: auth.component.spec
+ * Author: Erica Perry
+ * Date: Feb  9 2021
+ * Description: sign-in.componten.ts */
+
 import { Component, OnInit } from '@angular/core';
 import { SignInService } from '../sign-in.service';
 import { Router } from '@angular/router';
