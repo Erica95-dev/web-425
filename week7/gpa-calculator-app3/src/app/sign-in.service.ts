@@ -1,3 +1,9 @@
+/*
+ * Title: auth.component.spec
+ * Author: Erica Perry
+ * Date: Feb  9 2021
+ * Description: sign-in.service */
+
 import { Injectable } from '@angular/core';
 
 @Injectable({
