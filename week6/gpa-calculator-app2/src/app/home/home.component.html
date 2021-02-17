@@ -4,12 +4,15 @@
  * Date: Feb  9 2021
  * Description: home.component.html -->
 
+
+
 <div fxLayout="row wrap" fxLayoutGap="20px">
     <div class="grade-form" fxFlex>
       <mat-card class="mat-elevation-z8">
   
         <mat-card-title>Grade Entry</mat-card-title>
   
+        <!-- creating a mat-form field for my course section -->
         <mat-card-content>
           <form fxLayout="column" fxLayoutGap="16px">
             <mat-form-field fxFlex appearance="fill">
@@ -17,6 +20,8 @@
               <input type="text" name="txtCourse" id="txtCourse" matInput [(ngModel)]="transcriptEntry.course" />
             </mat-form-field>
   
+            <!-- creating a mat-form field for my grade section-->
+            
             <mat-form-field fxFlex appearance="fill">
               <mat-label>Grade</mat-label>
               <mat-select [(ngModel)]="transcriptEntry.grade" name="selectGrade">
@@ -25,6 +30,8 @@
                 </mat-option>
               </mat-select>
             </mat-form-field>
+            
+        <!-- creating a click button for saving my entries -->
             <button mat-raised-button color="primary" (click)="saveEntry()">Save</button>
           </form>
         </mat-card-content>
@@ -47,6 +54,7 @@
   
   <div fxLayout="column" fxLayoutGap="20px">
     <div fxFlex class="gpa">
+      <!-- creating a click button to calculate my results -->
       <button mat-button color="primary" (click)="calculateResults()">Calculate GPA</button>
   
       <mat-card class="mat-elevation-z8">

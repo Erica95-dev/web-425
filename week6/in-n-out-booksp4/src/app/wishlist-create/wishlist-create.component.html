@@ -4,12 +4,14 @@
  * Date: Feb 6 2021
  * Description-->
 
+<!-- creating a form-field for my wishlist items-->
  <form fxLayout="column" class="wishlist-create-form">
     <mat-form-field fxFlex appearance="fill">
       <mat-label>Title</mat-label>
       <input type="text" name="title" matInput [(ngModel)]="item.title" />
     </mat-form-field>
   
+   <!-- creating a form-field for my authors-->
     <mat-form-field fxFlex appearance="fill">
       <mat-label>Authors</mat-label>
       <input type="text" name="authors" matInput [(ngModel)]="item.authors" />
