@@ -1,3 +1,10 @@
+<!--
+ * Title: auth.component.spec
+ * Author: Erica Perry
+ * Date: Feb  9 2021
+ * Description: auth.compontent -->
+
+
 <div fxLayout="column">
 
     <mat-card fxFlex class="mat-elevation-z8 signin-container">
@@ -15,11 +22,14 @@
             <mat-card-content>
   
               <mat-form-field fxFlex appearance="fill">
+                <!-- creating a student id field-->
                 <mat-label for="txtStudentId" id="lblStudentId">Student ID</mat-label>
                 <input type="text" matInput formControlName="studentId" id="txtStudentId" name="txtStudentId" />
               </mat-form-field>
+              
             </mat-card-content>
   
+            <!-- creating a submit button-->
             <mat-card-actions>
               <button type="submit" fxFlex mat-raised-button color="primary">Submit</button>
             </mat-card-actions>
